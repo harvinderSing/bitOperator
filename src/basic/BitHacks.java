@@ -3,7 +3,7 @@ package basic;
 public class BitHacks {
 	
 	public static void main(String[] args) {
-		System.out.println("result "+( 2^2 ));
+		System.out.println("result "+( 1^2^3^4^5^6^7^8 ));
 	}
 
 	static void check_Integer_Even_Odd(int x) {
